@@ -7,7 +7,7 @@ body{
     Meiryo,
     sans-serif;
 }
-
+/*--------------------------------------- ヘッダーのデザイン---------------------------------------- */
 .gazou {
     width: 100%;
     height: 500px;
@@ -28,7 +28,22 @@ body{
     margin: 0;
     padding: 0;
 }
+ul{
+    display: flex;
+    clear: both;
+    list-style-type: none;
+    justify-content: space-around
+}
+.buy{
+    background: #FFFFE0;
+    height: 60px;
+}
 
+.food{
+    background: #FFEFD5;
+    height: 60px;
+}
+/*------------------------------------ フッターのデザイン----------------------------------------------- */
 footer{
     background-color:#8FBC8F; 
 }
