@@ -33,7 +33,10 @@ ul{
     clear: both;
     list-style-type: none;
     justify-content: space-around
+   
 }
+
+
 .buy{
     background: #FFFFE0;
     height: 60px;
