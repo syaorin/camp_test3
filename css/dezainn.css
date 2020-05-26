@@ -14,3 +14,14 @@ body{
     margin: auto;
     object-fit: cover;
 }
+
+.header-main{
+    position: relative;   
+}
+.head-moji{
+    position: absolute;
+    font-size: 80px;
+    color: white;
+    top: 50%;
+    left: 50%;
+}
