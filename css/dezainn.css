@@ -32,10 +32,14 @@ ul{
     display: flex;
     clear: both;
     list-style-type: none;
-    justify-content: space-around
-   
+    justify-content: space-around;
+    margin: 0;
+    align-items: center;
 }
 
+li{
+    margin: auto;
+}
 
 .buy{
     background: #FFFFE0;
